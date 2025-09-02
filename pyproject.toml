@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "project-env"
+version = "1.0.0"
+description = "Example virtual environment for CausalML project"
+authors = ["Your Name Here <you@hertie-school.org>"]
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.1.1"
+numpy = "^2.3.2"
+plotnine = "^0.15.0"
+polars = "^1.32.3"
+pyarrow = "^21.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
