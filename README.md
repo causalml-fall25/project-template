@@ -4,4 +4,26 @@ The final project is a work of exposition/tutorial in which you explore a topic 
 
 You will be graded not only on the accuracy of your analysis, but also on the clarity of your exposition, which includes notation, typesetting (equation alignment, exceeding margins), grammar, figures, tables, etc. All code should be reproducible--please provide any supporting files necessary with your submission. The more difficult it is to read your work, the fewer points you will receive. Follow a coding style guide (e.g. https://style.tidyverse.org/ and https://peps.python.org/pep-0008/) and stick to it. The expectation is for polished work.
 
+To create a polished document, I suggest using Quarto, LaTeX, RMarkdown or a similar markup language. Organize your files clearly so I can immediately find relevant files (a README with a Table of Contents can also help). You should use subdirectories and packages as appropriate for your project, e.g.:
+```
+data/
+├─ lalonde.csv
+├─ nsw_rct.csv
+figures/
+├─ rmse.pdf
+├─ runtime.pdf
+simulation_output/
+├─ simulation_results.csv
+simulation_package/
+├─ data_generator.py
+├─ estimator.py
+├─ evaluator.py
+├─ __init__.py
+pyproject.toml
+run_analysis.R
+run_simulations.py
+writeup.pdf
+writeup.tex
+```
+
 Alternatively, students may submit original work, such as a research proposal for a project they are working on. This option is available with instructor permission only.
