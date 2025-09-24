@@ -27,3 +27,26 @@ writeup.tex
 ```
 
 Alternatively, students may submit original work, such as a research proposal for a project they are working on. This option is available with instructor permission only.
+
+## Expectations
+
+### Content & Analysis (35 points)
+- *Excellent (32-35)*: Demonstrates deep understanding of chosen causal ML topic. Clear discussion of foundations, competing approaches, and trade-offs. Insightful analysis of strengths/weaknesses. Thoughtful directions for future research.
+- *Good (26-31)*: Solid understanding with adequate coverage of foundations and methods. Some analysis of trade-offs and limitations. Basic future directions identified.
+- *Satisfactory (21-25)*: Basic understanding evident but shallow treatment. Limited discussion of competing approaches or trade-offs. Weak or missing future research directions.
+- *Poor (0-20)*: Fundamental misunderstandings or inadequate coverage of topic. No clear analysis of methods or their limitations.
+### Technical Implementation (30 points)
+- *Excellent (27-30)*: Code runs flawlessly, follows style guide, well-documented. Computational example clearly demonstrates key concepts. All files organized and reproducible.
+- *Good (24-26)*: Code mostly works with minor issues. Generally follows style conventions. Example adequately demonstrates concepts. Mostly reproducible.
+- *Satisfactory (19-23)*: Code has some issues but generally functional. Basic organization present. Example somewhat relevant but unclear connection to main points.
+- *Poor (0-18)*: Code doesn't run, poorly organized, or irreproducible. Example fails to demonstrate key concepts or is missing entirely.
+### Writing & Exposition (25 points)
+- *Excellent (23-25)*: Clear, engaging writing with proper notation and formatting. Excellent figures/tables. Reader gains strong understanding of when/how to use methods.
+- *Good (20-22)*: Generally clear writing with minor issues. Good use of notation and figures. Reader understands main points and applications.
+- *Satisfactory (16-19)*: Adequate writing but some clarity issues. Basic notation and figures present. Limited guidance on practical application.
+- *Poor (0-15)*: Poor writing quality, notation errors, or formatting issues significantly impede understanding.
+### Organization & Presentation (10 points)
+- *Excellent (9-10)*: Professional presentation with clear file structure, appropriate length (5 pages), excellent typesetting.
+- *Good (7-8)*: Well-organized with minor presentation issues. Appropriate length and generally good formatting.
+- *Satisfactory (5-6)*: Basic organization present but some structural issues. Length appropriate but formatting inconsistent.
+- *Poor (0-4)*: Poor organization, inappropriate length, or significant formatting problems.
